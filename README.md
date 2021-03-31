@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @farzaneb75
 - 👀 I’m interested in front end 
-- 🌱 I’m currently learning f
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently learning front end developing
+- 💞️ I’m looking to collaborate on 
 - 📫 babaalifarzane16@gmail.com
 
 <!---
